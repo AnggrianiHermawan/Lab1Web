@@ -1,3 +1,8 @@
+    Nama: Anggriani Hermawan
+    NIM: 312410175
+    Kelas: TI.24.A2
+    Mata Kuliah: Pemrograman Web 1
+        
     #Praktikum1
     Soal
     1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah
